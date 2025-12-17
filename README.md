@@ -1,4 +1,4 @@
-# Gamesense
-Gamesense - Get good get gamesense.
-Three steps ahead of the game.
+# DISCLAIMER!
+You need to have winrar installed! THE PASSWORD IS "gamesense"
+You might also need to turn off anti virus if it doesnt launch.
 
